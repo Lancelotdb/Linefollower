@@ -3,7 +3,7 @@
 
 |volgnummer|naam|omschrijving|nieuw/recup|kostprijs/stuk|aantal|subtotaal|
 |----------|----|------------|-----------|--------------|------|---------|
-|         1| arduino leonardo   |            |           |              |      |         |
+|         1| arduino leonardo   |  reup          |           |              |      |         |
 |         1|    |            |           |              |      |         |
 |         1|    |            |           |              |      |         |
 |         1|    |            |           |              |      |         |

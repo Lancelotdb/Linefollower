@@ -1,6 +1,5 @@
 #include <SoftwareSerial.h>
 int state;
-String data = "";
 #define ledPin 7
 
 

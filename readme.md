@@ -2,25 +2,25 @@
 
 
 ![1](https://user-images.githubusercontent.com/114813824/206908924-84b136d6-5f35-4309-9ef4-689fbbbd951c.PNG)
-
-
-## Specifications
 <br />
-Microcontroller:
 <br />
-Motors: 
+# Specifications
 <br />
-H-bridge:
+<strong>Microcontroller:</strong> ATmega328P 
 <br />
-Sensors:
+<strong>Motors:</strong> GA12-N20, 800TPM
 <br />
-Batteries:
+<strong>H-bridge:</strong> Adafruit DRV8833
 <br />
-Wireless communication:
+<strong>Sensors:</strong> Pololu QTR-8A
 <br />
-Distance sensor - motors:
+<strong>Batteries:</strong> Efest IMR 18650 35A
 <br />
-Weight:
+<strong>Wireless communication:</strong> HC-05
 <br />
-Speed: 
+<strong>Distance sensor - motors:</strong> 95mm
+<br />
+<strong>Weight:</strong>
+<br />
+<strong>Speed:</strong> 0,66 m/s
 <br />

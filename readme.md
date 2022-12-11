@@ -1,30 +1,26 @@
 # LineFollower
-<br />
-lege repository die je als template kan gebruiken om een eigen repository te starten voor uw linefollower project
-<br />
-<br />
-![alt text]([http://url/to/img.pn](https://user-images.githubusercontent.com/114813824/206908698-237f60c7-009c-406c-b4f9-127cc886225a.PNG)
 
-<br />
-<br />
-  
+
+![1](https://user-images.githubusercontent.com/114813824/206908924-84b136d6-5f35-4309-9ef4-689fbbbd951c.PNG)
+
+
 ## Specifications
 <br />
-microcontroller:
+Microcontroller:
 <br />
-motors: 
+Motors: 
 <br />
-h-bridge:
+H-bridge:
 <br />
-sensors:
+Sensors:
 <br />
-batteries:
+Batteries:
 <br />
-wireless communication:
+Wireless communication:
 <br />
-distance sensor - motors:
+Distance sensor - motors:
 <br />
-weight:
+Weight:
 <br />
-speed: 
+Speed: 
 <br />
